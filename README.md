@@ -40,7 +40,7 @@ The project was designed with three key goals:
 - Performed exploratory data analysis to identify trends.
 
 ### 2️⃣ Exploratory Data Analysis (EDA)
-- Observed a steady increase in **TV shows** and a decline in **movies after 2010**, especially in the US.
+- Observed a steady increase in **TV shows** and a decline in **Movies after 2010**, especially in the US.
 - Identified country-wise and genre-wise content distribution.
 
 ### 3️⃣ Feature Engineering
